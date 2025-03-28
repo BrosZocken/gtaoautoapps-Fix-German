@@ -20,30 +20,25 @@ or
 **IMPORTANT**
 -
 The Script will ask for admin rights.
-The script wont run without admin rights. It needs them to add and remove firewall rules used for NoSave, without admin it cant do that and NoSave will not work.
 
-
-**Controls:**
+**Steuerung:**
 -
-**Numpad0**: PREPRATION PHASE
-- This is for setting up all 10 slots to $550k value on each. You HAVE TO run it in Story Mode. You run it and wait until completion.
+**P**: VORBEREITUNGSPHASE
+- Dies dient dazu, alle 10 Slots auf einen Wert von jeweils $550k einzustellen. Sie MÜSSEN dies im Story-Modus ausführen. Starten Sie es und warten Sie, bis es abgeschlossen ist.
 
+**O**: RÜCKZAHLUNGSPHASE
+- Dies ist der Haupt-Hotkey. Sie verwenden ihn, um "Apartments zu verkaufen" (wenn alle Slots eingestellt sind). Sie MÜSSEN diesen Hotkey im Story-Modus ausführen. Ein Fenster mit einer Eingabebox erscheint. Geben Sie ein, wie viele Durchläufe Sie versuchen möchten, und warten Sie, bis es abgeschlossen ist.
 
-**Numpad1**: PAYBACK PHASE
-- This is the main hotkey. You use it for "selling apartments" (when all slots are set). You HAVE TO run this hotkey when in Story mode.
-Window with input box will appear. You enter how many runs you want to attempt and then just wait until it will be complete.
+**Numpad2**: No-Save aktivieren "Panikknopf"
+- Sie können dies verwenden, um den NoSave-Modus manuell zu aktivieren.
 
-**Numpad2**: No-Save enable "panic button"
-- You can use this to enable nosave manually.
+**Numpad3**: No-Save deaktivieren "Panikknopf"
+- Sie können dies verwenden, um den NoSave-Modus manuell zu deaktivieren.
 
-**Numpad3**: No-Save disable "panic button"
-- You can use this to disable nosave manually.
+**L**: Neuladen "Panikknopf"
+- Verwenden Sie dies, um das gesamte AHK-Skript neu zu laden/"zurückzusetzen".
 
-**Numpad4**: Reload "panic button"
-- Use this to reload/"reset" whole AHK script.
+**-**: Beenden "Panikknopf"
+- Verwenden Sie dies, um das Skript vollständig zu beenden.
 
-**Numpad5**: Exit "panic button"
-- Use this to kill script completely.
-
-
-Feel free to change hotkeys to your own to your liking.
+Sie können die Hotkeys nach Belieben anpassen.
